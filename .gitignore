@@ -7,13 +7,14 @@ build/
 application.yml
 
 ### STS ###
-.apt_generated
+.apt_gen
+erated
 .classpath
 .factorypath
 .project
 .settings
 .springBeans
-.sts4-cache
+.https://github.com/okydooky3/gitignoretest3.gitsts4-cache
 bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
